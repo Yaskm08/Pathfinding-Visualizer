@@ -12,6 +12,10 @@
     </a>
 </h2>
 
+
+https://github.com/honzaap/Pathfinding/assets/58147774/1a5e5c50-5e13-4738-b67a-2015631906ee
+
+
 ## Available algorithms 
 - A* algorithm
 - Greedy algorithm
